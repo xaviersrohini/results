@@ -8,7 +8,8 @@ order: 4
 
 Xaverian Result Archive.
 
+
 > Request removal of your results by emailing or commenting on the post.
-> {: .prompt-tip }
+{: .prompt-tip }
 
 __Maintained by [XDC](https://github.com/xaviersrohini)__

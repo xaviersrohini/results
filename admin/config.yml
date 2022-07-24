@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: xaviersrohini/results
-  branch: master
+  branch: main
   site_domain: xra.netlify.com
 
 media_folder: "images/uploads"

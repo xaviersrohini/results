@@ -6,6 +6,9 @@ categories:
 tags:
   - "2022"
 ---
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxaviersrohini.github.io%2Fresults%2Fposts%2Fcbse-2022-xii-c-results%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false" align=center><br>
+
+
 |NAME                |ENGLISH|MATHEMATICS|PHYSICS|CHEMISTRY|BIOLOGY|TOTAL|
 |--------------------|-------|-----------|-------|---------|-------|-----|
 |AAKANKSHA           |83     |32         |52     |49       |52     |53.6 |
